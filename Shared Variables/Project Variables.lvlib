@@ -13,7 +13,7 @@
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
-			<Property Name="Real-Time Features:ArrayLength" Type="Str">11</Property>
+			<Property Name="Real-Time Features:ArrayLength" Type="Str">19</Property>
 			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
 			<Property Name="Real-Time Features:DatapointsInWaveform" Type="Str">1</Property>
 			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
@@ -28,7 +28,7 @@
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
-			<Property Name="Real-Time Features:ArrayLength" Type="Str">6</Property>
+			<Property Name="Real-Time Features:ArrayLength" Type="Str">19</Property>
 			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
 			<Property Name="Real-Time Features:DatapointsInWaveform" Type="Str">10240</Property>
 			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
